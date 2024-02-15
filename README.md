@@ -37,7 +37,8 @@ Using Excel to analyze Fantasy Football stats allowed me to realize my passion f
           - After this trade, my team increased 4 positions in the rankings which allowed me to make the playoffs
 - I used the following workbook for this analysis:
   
-  ![Screenshot (16)](https://github.com/bhammy27/FFdb_Excel_Analysis/assets/154477061/8bacc647-2f51-4440-81f5-e3d13d12dd9a)
+  ![Screenshot (120)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/44d71514-602e-452d-ad04-7c19adc643f5)
+
 
   This landing page has hyperlinks to each position workbook embedded in the corresponding position football.
   Clicking on the Quarterback football will take you to the following workbook.
