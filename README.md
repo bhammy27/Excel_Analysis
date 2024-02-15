@@ -45,22 +45,23 @@ Using Excel to analyze Fantasy Football stats allowed me to realize my passion f
 
   ### Week stats table
   The data was downloaded from [FantasyPros](https://www.fantasypros.com/nfl/stats/qb.php)
+  - The stats for each week of the season were assigned to their own sheet 
+  - A table was created and named with the prefix "tbl_qb_" followd up by wk number making it easy to reference in lookup functions
   
+ ![Screenshot (121)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/a2ac4471-fcc4-45d4-9b2c-dff9a55165e2)
+
+
+  ### Weekly Analysis
   
-  ![Screenshot (19)](https://github.com/bhammy27/FFdb_Excel_Analysis/assets/154477061/cd9eebcd-4651-4b4a-96b8-b7486e47d15b)
+  ![Screenshot (122)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/1f794142-cb2d-474f-9505-e9ee04b888fa)
 
-  ### Weekly Analysis Table
-
-  ![Screenshot (17)](https://github.com/bhammy27/FFdb_Excel_Analysis/assets/154477061/6a60a741-4c58-4b0e-88d4-1ef4dd5ebf9b)
-
-
-### Analyzing the Table:
--  Using yellow and red fill in the Player column identifies my players for each of my 2 leagues.
+### this weekly analysis table provided :
+-  Easy identification of my current players by highlighting players with red or yellow fill identifying my two legues 
 -  Team column makes filtering players by team easier
 -  Sparklines provides a quick visual trend reference
 -  Total column shows players with the most points
--  Comparing Average points to Total points helps remove outliers from great weeks or weeks where the player did not play
--  Applying conditional formatting quickly points out top players
+-  Comparing Average points to Total points provides a better measure of players performance
+-  Applying conditional formatting quickly points out top players for each week
 -  Conditional formatting chart:
     - Green = Highest fantasy points
     - Yellow = Score in Top 5% 
@@ -72,9 +73,11 @@ Using Excel to analyze Fantasy Football stats allowed me to realize my passion f
   Utilizing pivot tables provides better understanding on how each player earns Fantasy Points
   I created a pivot table to display the fantasy point breakdown for each player by scoring category using these calculations.
   
-![Screenshot (31)](https://github.com/bhammy27/FFdb_Excel_Analysis/assets/154477061/30c4adb0-2342-4302-8309-f1ac52cab8ed)
+![Screenshot (124)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/7ad1f2f6-66f0-4c85-81df-3b0db5df0691)
 
-![Screenshot (28)](https://github.com/bhammy27/FFdb_Excel_Analysis/assets/154477061/a044dfd2-f408-4901-8620-7d9f27bb1640)
+
+![Screenshot (125)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/d7448b9b-1254-4aa3-ad16-29a025475f2f)
+
 
 
 ### **Converting the values to Percent of Total and inserting a Pie Chart brings the data to life**
@@ -88,7 +91,8 @@ In the Pie Chart below shows a breakdown of Aaron Jones Fantasy Points distribut
   -  Each touchdown is worth 6 points although they are hard to come by
 
 
-![Screenshot (29)](https://github.com/bhammy27/FFdb_Excel_Analysis/assets/154477061/5264d1c1-c2f3-4634-95b3-d7434adb66fb)
+![Screenshot (128)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/3b5fec8e-d4da-40f5-9c47-59642d0aa24d)
+
 
 
 The next Pie Chart shows a breakdown of Zander Horvath's Fantasy Points distribution.
@@ -97,7 +101,7 @@ The next Pie Chart shows a breakdown of Zander Horvath's Fantasy Points distribu
   - That tells me he is used in a limited role and could be a boom or bust player each week
 -  Due to Zander's strong dependency on touchdowns, **I would avoid having him on my roster**
 
-  
-![Screenshot (30)](https://github.com/bhammy27/FFdb_Excel_Analysis/assets/154477061/e96d1468-0fa8-4def-8834-d25efeca7b60)
+![Screenshot (127)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/49d91b5c-85ef-4129-a9e4-43bfb74364cc)
+
 
   
