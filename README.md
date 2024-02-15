@@ -29,8 +29,8 @@ Using Excel to analyze Fantasy Football stats allowed me to realize my passion f
 
 ## Weekly Analysis Workbook
 -  Identifying weekly trends helps identify player performance trends
-  - Under performing players can be replaced by adding available players from the waiver wire
-  - By identifying over perfromers, you can trade the player and fill gaps in your roster
+  - Underperforming players can be replaced by adding available players from the waiver wire
+  - By identifying overper formers, you can trade the player and fill gaps in your roster
       - **I used this info to trade a hot CeeDee Lamb in week 6 for CJ Stroud and Sam LaPorta giving me better production from my quarterback and tight end**
           - I had a very strong collection of wide receivers
           - The points gained from Stroud and LaPorta were greater than Lamb's production
@@ -55,7 +55,7 @@ Using Excel to analyze Fantasy Football stats allowed me to realize my passion f
   
   ![Screenshot (122)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/1f794142-cb2d-474f-9505-e9ee04b888fa)
 
-### this weekly analysis table provided :
+### this weekly analysis table provided:
 -  Easy identification of my current players by highlighting players with red or yellow fill identifying my two legues 
 -  Team column makes filtering players by team easier
 -  Sparklines provides a quick visual trend reference
