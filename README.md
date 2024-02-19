@@ -1,5 +1,5 @@
 # Excel_Analysis
-Using Excel to analyze Fantasy Football stats allowed me to realize my passion for data analytics.  The evolution of my analysis using Excel began with manually entering hundreds of players names and fantasy point values for draft analysis.  As I learned new Excel skills at work, I would apply them to fantasy football.  Follow along to see some of the many things I have learned!
+Using Excel to analyze Fantasy Football stats allowed me to realize my passion for data analytics. The evolution of my analysis using Excel began with manually entering hundreds of players names and fantasy point values for draft analysis. As I learned new Excel skills at work, I would apply them to fantasy football. Follow along to see some of the many things I have learned!
 
 # Skills Demonstrated:
 - Lookup functions: Vlookup, Xlookup
@@ -71,7 +71,7 @@ Using Excel to analyze Fantasy Football stats allowed me to realize my passion f
       - Drafting or acquiring as many players with above average scores or greater will guarantee success!
   # Pivot Table Analysis
   Utilizing pivot tables provides better understanding on how each player earns Fantasy Points
-  I created a pivot table to display the fantasy point breakdown for each player by scoring category using these calculations.
+  I created a pivot table to display the fantasy point breakdown for each player by scoring category using these calculations
   
 ![Screenshot (124)](https://github.com/bhammy27/Excel_Analysis/assets/154477061/7ad1f2f6-66f0-4c85-81df-3b0db5df0691)
 
